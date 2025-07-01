@@ -1,7 +1,3 @@
-Here’s a complete **README.md** file for your **Health and Fitness** project, incorporating all the requested details:
-
----
-
 # Health and Fitness
 
 ### Overview
@@ -112,7 +108,7 @@ We welcome contributions to improve this project. Here's how you can contribute:
 
 ### License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ---
 
@@ -121,8 +117,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 If you have questions or suggestions, feel free to contact:
 
 * **Name**: Jyothirmayee Siva Gayatri Nisamkarao
-* **Email**: \[Add Your Email Here]
-
----
-
-Save this file as `README.md` in the root of your project directory and push it to GitHub. Let me know if you need help with any further customizations!
+* **Email**: jyothirmayeenisamkarao@gmail.com
